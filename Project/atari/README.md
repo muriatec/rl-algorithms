@@ -13,5 +13,5 @@ python ddqn.py --train --env_name PongNoFrameskip-v4
 ## Test
 To test the trained model, use the following command:
 ```
-python ddqn.py --test --env_name PongNoFrameskip-v4 --model_path out\PongNoFrameskip-v4-run1\model_last.pkl
+python ddqn.py --test --env_name PongNoFrameskip-v4 --model_path out\PongNoFrameskip-v4-run13\model_last.pkl
 ```
