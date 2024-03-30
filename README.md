@@ -1,5 +1,4 @@
-# rl-algorithms
-SJTU CS3316 Reinforcement Learning
+# SJTU CS3316 Reinforcement Learning
 
 Implemented algorithms:
 - Value Iteration
